@@ -1,5 +1,5 @@
 # Tic Tac Toe Game in Java
-
+---
 ## 📌 Overview
 This project is a console-based Tic Tac Toe game developed using Java. It supports two modes:
 - Human vs Human
@@ -40,6 +40,16 @@ The project demonstrates strong use of Object-Oriented Programming concepts and 
 3. Run:
    - `LaunchGame.java` for Human vs Human
    - `LaunchAI.java` for Human vs AI
+
+---
+
+## 🎥 Project Demo (Run Process)
+
+This video demonstrates how to run the application and showcases both gameplay modes:
+- Human vs Human
+- Human vs AI
+
+📹 Demo Video: https://github.com/cpushpavathi/tic-tac-toe-java/assets/xxxxx
 
 ---
 
